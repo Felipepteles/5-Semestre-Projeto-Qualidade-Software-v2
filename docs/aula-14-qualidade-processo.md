@@ -45,7 +45,7 @@ Recebimento da Demanda
 ## 3. Reflexão sobre o Processo
 
 ### 1. O processo utilizado pela equipe está claramente definido?
-Ate que sim, a gente sabe os passos principais (planejar, codar, testar e entregar), mas nem tudo e documentado direito, entao as vezes da duvida se a tarefa realmente acabou.
+Ate que sim, eu sei os passos principais (planejar, codar, testar e entregar), mas nem tudo e documentado direito, entao as vezes da duvida se a tarefa realmente acabou.
 
 ### 2. Todos os integrantes seguem o mesmo fluxo de trabalho?
 Na maior parte do tempo sim. Mas quando o prazo ta apertado a gente acaba pulando o planejamento mais detalhado e vai direto pro codigo pra dar tempo.
